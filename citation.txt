@@ -1,0 +1,6 @@
+@article{REPO-327,
+    author = "Wang, Zifeng and Sun, Jimeng",
+    journal = "arXiv preprint arXiv:2205.09328",
+    title = "{Transtab: Learning Transferable Tabular Transformers Across Tables}",
+    year = "2022"
+}
